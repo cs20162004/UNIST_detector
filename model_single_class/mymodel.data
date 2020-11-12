@@ -1,0 +1,5 @@
+classes= 1
+train  = model_single_class/train.txt
+valid  = model_single_class/test.txt
+names = model_single_class/mymodel.names
+backup = backup/

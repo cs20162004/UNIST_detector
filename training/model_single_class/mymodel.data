@@ -1,5 +1,0 @@
-classes= 1
-train  = training/model_single_class/train.txt
-valid  = training/model_single_class/test.txt
-names = training/model_single_class/mymodel.names
-backup = backup/
