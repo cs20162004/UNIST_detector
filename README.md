@@ -22,3 +22,14 @@ Run the detector.py
 $ python3 detector.py
 ```
 Then, choose your image
+
+### References
+
+J. Redmon. Darknet: Open source neural networks in c.
+http://pjreddie.com/darknet/, 2013–2016.
+
+J. Redmon and A. Farhadi. Yolo9000: Better, faster, stronger.
+In Computer Vision and Pattern Recognition (CVPR), 2017
+IEEE Conference on, pages 6517–6525. IEEE, 2017.
+
+J. Redmon and A. Farhadi. Yolov3: An incremental improvement. arXiv, 2018.
