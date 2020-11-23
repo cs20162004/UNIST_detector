@@ -5,7 +5,7 @@ This is a yolov3-tiny object detection model that can identify UNIST (Ulsan Nati
 ### Result
 ![Darknet Logo](https://raw.githubusercontent.com/cs20162004/UNIST_detector/main/images/output2.jpg)
 
-### Dependencies
+## Dependencies
 Install the Tkinter package
 ```sh
 $ apt-get install python3-tk
@@ -31,13 +31,13 @@ $ python3 detector_mac.py
 ```
 Then, choose your image
 
-### References
+## References
 
-J. Redmon. Darknet: Open source neural networks in c.
+- J. Redmon. Darknet: Open source neural networks in c.
 http://pjreddie.com/darknet/, 2013–2016.
 
-J. Redmon and A. Farhadi. Yolo9000: Better, faster, stronger.
+- J. Redmon and A. Farhadi. Yolo9000: Better, faster, stronger.
 In Computer Vision and Pattern Recognition (CVPR), 2017
 IEEE Conference on, pages 6517–6525. IEEE, 2017.
 
-J. Redmon and A. Farhadi. Yolov3: An incremental improvement. arXiv, 2018.
+- J. Redmon and A. Farhadi. Yolov3: An incremental improvement. arXiv, 2018.
