@@ -33,17 +33,21 @@ Then, choose your image
 
 ## References
 
-- Redmon, J.; Divvala, S.; Girshick, R.; Farhadi, A. You only look once: Unified, real‐time object detection. In
+- [You only look once: Unified, real‐time object detection.](https://arxiv.org/abs/1506.02640)
+Redmon, J.; Divvala, S.; Girshick, R.; Farhadi, A. You only look once: Unified, real‐time object detection. In
 Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, Las Vegas, NV, USA,
 26 June–1 July 2016; pp. 779–788
 
-- He, & Huang, Chang-Wei & Wei, Liqing & Li, Lingling & Anfu, Guo. (2019). TF-YOLO: An Improved Incremental Network for Real-Time Object Detection. Applied Sciences. 9. 3225. 10.3390/app9163225.
+- [TF-YOLO: An Improved Incremental Network for Real-Time Object Detection.](https://www.mdpi.com/2076-3417/9/16/3225/htm)
+He, & Huang, Chang-Wei & Wei, Liqing & Li, Lingling & Anfu, Guo. (2019). TF-YOLO: An Improved Incremental Network for Real-Time Object Detection. Applied Sciences. 9. 3225. 10.3390/app9163225.
 
 - J. Redmon. Darknet: Open source neural networks in c.
 http://pjreddie.com/darknet/, 2013–2016.
 
-- J. Redmon and A. Farhadi. Yolo9000: Better, faster, stronger.
+- [Yolo9000: Better, faster, stronger.](https://arxiv.org/abs/1612.08242)
+J. Redmon and A. Farhadi. Yolo9000: Better, faster, stronger.
 In Computer Vision and Pattern Recognition (CVPR), 2017
 IEEE Conference on, pages 6517–6525. IEEE, 2017.
 
-- J. Redmon and A. Farhadi. Yolov3: An incremental improvement. arXiv, 2018.
+- [Yolov3: An incremental improvement.](https://arxiv.org/abs/1804.02767)
+J. Redmon and A. Farhadi. Yolov3: An incremental improvement. arXiv, 2018.
