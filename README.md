@@ -33,6 +33,12 @@ Then, choose your image
 
 ## References
 
+- Redmon, J.; Divvala, S.; Girshick, R.; Farhadi, A. You only look once: Unified, real‐time object detection. In
+Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, Las Vegas, NV, USA,
+26 June–1 July 2016; pp. 779–788
+
+- He, & Huang, Chang-Wei & Wei, Liqing & Li, Lingling & Anfu, Guo. (2019). TF-YOLO: An Improved Incremental Network for Real-Time Object Detection. Applied Sciences. 9. 3225. 10.3390/app9163225.
+
 - J. Redmon. Darknet: Open source neural networks in c.
 http://pjreddie.com/darknet/, 2013–2016.
 
