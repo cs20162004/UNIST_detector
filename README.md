@@ -10,16 +10,24 @@ Install the Tkinter package
 ```sh
 $ apt-get install python3-tk
 ```
-
-### How to run the model on your own image:
 Clone to your local repository 
 ```sh
 $ git clone https://github.com/cs20162004/UNIST_detector.git
 $ cd UNIST_detector
 ```
-Run the detector.py
+### Run detector on Ubuntu:
+
+Run the detector_ubuntu.py
 ```sh
-$ python3 detector.py
+$ python3 detector_ubuntu.py
+```
+Then, choose your image
+
+### Run detector on Mac:
+
+Run the detector_mac.py
+```sh
+$ python3 detector_mac.py
 ```
 Then, choose your image
 
