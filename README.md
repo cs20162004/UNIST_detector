@@ -31,6 +31,9 @@ $ python3 detector_mac.py
 ```
 Then, choose your image
 
+## The structure of the model
+![model structure](https://raw.githubusercontent.com/cs20162004/UNIST_detector/main/images/model_struct)
+
 ## References
 
 - [You only look once: Unified, real‐time object detection.](https://arxiv.org/abs/1506.02640)
