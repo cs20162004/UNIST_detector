@@ -32,7 +32,7 @@ $ python3 detector_mac.py
 Then, choose your image
 
 ## The structure of the model
-![model structure](https://raw.githubusercontent.com/cs20162004/UNIST_detector/main/images/model_struct)
+![model structure](https://raw.githubusercontent.com/cs20162004/UNIST_detector/main/images/model_struct.png)
 
 ## References
 
